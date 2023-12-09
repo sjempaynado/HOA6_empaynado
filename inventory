@@ -1,0 +1,12 @@
+[web_servers]
+192.168.56.106
+192.168.56.103
+192.168.56.105  apache_package=httpd php_package=php
+
+[db_servers]
+192.168.56.106
+192.168.56.103
+192.168.56.105  apache_package=httpd php_package=php
+
+[file_servers]
+192.168.56.108
